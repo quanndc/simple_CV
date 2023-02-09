@@ -1,0 +1,41 @@
+
+body{
+    overflow: hidden;
+}
+
+
+#container{
+    width: 700px;
+    height: 100vh;
+    margin: 0 auto;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+#avatar-content{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+#avatar{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+#container h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
